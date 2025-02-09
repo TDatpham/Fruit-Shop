@@ -1,4 +1,4 @@
-# CMS Shopping Cart : E-commerce Application
+# Fruit-Shop
 A web app using Spring Boot that can perform the basic e-commerce functionality.
 
 Features
